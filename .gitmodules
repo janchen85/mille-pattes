@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:janchen85/janchen85.github.io.git

@@ -1,0 +1,13 @@
+<header>
+    <div class="title">
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        <p>{{ .Description }}</p>
+    </div>
+    <div class="meta">
+        {{ $.Scratch.Set "dateType" .Date }}
+
+        <time class="published"
+            datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
+            {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}</time>
+    </div>
+</header>

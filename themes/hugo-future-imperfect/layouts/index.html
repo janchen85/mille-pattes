@@ -1,9 +1,17 @@
+{{ partial "general-title" . }}
+
 {{ partial "header" . }}
-    {{ $.Scratch.Set "shareNav" true }}
-    {{ partial "navbar" . }}
-    <!-- Main -->
-    <div id="main">
-        {{.Content}}
-    </div>
-    {{ partial "sidebar" . }}
+{{ partial "navbar" . }}
+<!-- Main -->
+<div id="main">
+    <article class="post">
+        {{ $.Scratch.Set "h1" true }}
+        {{ .Render "header" }}
+
+        <div id="content">
+            {{ .Content }}
+        </div>
+    </article>
+</div>
+{{ partial "sidebar" . }}
 {{ partial "footer" . }}

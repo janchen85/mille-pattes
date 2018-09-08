@@ -1,13 +1,13 @@
 +++
-date = "2014-04-02"
-description = ""
-featured = "pic01.jpg"
-featuredalt = "Pic 1"
-featuredpath = "date"
+author = "Theme author"
+date = "2014-09-30"
+description = "HUGO"
+featured = "pic03.jpg"
+featuredalt = "Pic 2"
+featuredpath = "/img"
 linktitle = ""
-title = "Getting Started with Hugo"
+title = "HUGO"
 type = "post"
 
 +++
 
-Aktuelles 2

@@ -1,13 +1,12 @@
 +++
-author = "Migrating author"
-categories = ["Hugo", "Jekyll"]
-date = "2014-03-10"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
+author = "Theme author"
+date = "2014-10-01"
+description = "Go is for lovers"
+featured = "pic01.jpg"
+featuredalt = "Pic 1"
+featuredpath = "/img"
 linktitle = ""
-title = "Migrate to Hugo from Jekyll"
+title = "go is for lovers"
 type = "post"
 
 +++

@@ -3,7 +3,12 @@ title = "Team"
 date = "2014-04-09"
 +++
 
-hallo
+In jeder bilingualen Gruppe der Kita "Kleiner Muck" Tarostraße 9 arbeitet ein(e) Sprachbegleiter(in) im Tandem-Team mit der 
+Gruppenerzieher(in). Die Sprachbegleiter(in) sprechen ausschließlich französisch mit den Kindern.
 
+ 
 
-Das ist ein test 
+Unsere Sprachabegleiter(in) stellen sich hier kurz etwas näher vor:
+
+ 
+

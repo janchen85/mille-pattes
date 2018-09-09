@@ -21,6 +21,8 @@ Unsere Kita bildet das erste Glied des Deutsch-Französischen Bildungszentrums L
 Das Bildungsangebot ist durchgehend bilingual und bikulturel von der Kita bis zur Haupt- oder Realschulabschluss bzw. bis Abitur aufgebaut.
 Es ist ein Zusammenschluss aus fünf eigenständiger Einrichtungen die alle bereits seit mehreren Jahren erfolgreiche 
 Bildungsangebote in französischer Sprache anbieten.
+
+{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="center" >}}
  
 
 Entdecken Sie mehr über unsere Arbeit in der Deutsch-Französischen Integrativen Kindertageseinrichtung der Tarostr. 9!

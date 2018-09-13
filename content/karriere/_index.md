@@ -24,7 +24,7 @@ näherzubringen?
 
 Wir bieten folgende Möglichkeiten zur Mitarbeit: 
 
-- Festanstellung als Sprachabegeleiter(in)
+- Festanstellung als Sprachbegleiter
 - Praktikumsplätze
 - FSJ/BFD
 - OFAJ
@@ -39,6 +39,9 @@ Gern kannst du uns kontaktieren oder eine Initiativbewerbung (im PDF-Format) an 
 
 ## Aktuelle Stellenausschreibungen
 
+Unser Team ist zur Zeit komplett.
+
+<!---
 Wir suchen Unterstützung für folgende Stellen:
 
 {{< url-link "Sprachbegleiter (m/w)" "/img/downloads/Stellenanzeige_Sprachbegleiter.pdf" "target">}}
@@ -46,8 +49,7 @@ Wir suchen Unterstützung für folgende Stellen:
 und
 
 {{< url-link "FSJ (Freiwilliges soziales Jahr) (m/w)" "/img/downloads/Stellenanzeige_NEU_FSJ.pdf" "target">}}
-
-
+--->
 
 ***
 
@@ -71,8 +73,8 @@ Dafür suchen wir **_dringend Unterstützung_**. Ihre kleinen Einsätze sind ein
 
  
 
-Schreiben Sie gern? Schreiben Sie die Berichte Ihres Kindes über den Kitaalltag (Feste, Französisches Kochen, Theaterbesuch etc.) 
-auf und schicken Sie uns Ihren Text für de nächsten Newsletter!
+Sie schreiben gerne? Schreiben Sie die Berichte Ihres Kindes über den Kitaalltag (Feste, Französisches Kochen, Theaterbesuch etc.) 
+auf und schicken Sie uns Ihren Text für den nächsten Newsletter!
 
  
 

@@ -1,12 +1,12 @@
 +++
-title = "Verein"
+title = "Mille Pattes e.V."
 date = "2014-04-09"
 +++
 
 
-# Mille Pattes e.V.
 
-### Gründung
+
+## Gründung
 
 Der Verein "Deutsch-Französische Kindertagesstätte / Ecole maternelle franco-allemande Leipzig e.V." wurde im Jahr 2000 
 von engagierten Eltern mit dem Ziel gegründet, Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung 
@@ -25,34 +25,43 @@ Einen weiteren großen Schritt machte das Projekt im September 2006: An der bena
 ging in jenem Schuljahr die erste Französischklasse an den Start, in der Französisch in einigen Fächern 
 Unterrichtssprache ist. Auch im Hort dieser Grundschule werden die Kinder von französischem Personal betreut.
 
+---
 
 ## Vereinsschwerpunkte
 
 
 Die Vorstandsmitglieder des Vereins ermöglichen durch **_ihre ehrenamtliche Arbeit_** die bilinguale und interkulturelle 
-Erziehung in der Deutsch-Französischen Integrativen Kindertageseinrichtung Tarostraße 9 im Rahmen des städtischen Kindergartens.
+Erziehung, dadurch dass sie französische muttersprachler als Sprachbegleiter recrutieren und die nötigen administrativen Aufgaben übernehmen.
 
+Der Verein sorgt für die: 
+  
+- Auswahl 
+- Einstellung
+- Finanzierung
+- Fortbildung der Sprachbegleiter sowie 
+- Präsentation des Vereins und der Kita in der Öffentlichkeit.
  
 
-**Der Verein ist Arbeitgeber** der französischen Sprachbegleiter(innen) und Sprachassistenten; somit obliegen ihm die 
-Dienstaufsicht sowie die Fachaufsicht über deren pädagogische Arbeit. Der Vorstand organisiert außerdem die 
-Weiterbildung der Sprachassistenten und pflegt die Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen.
+**Der Verein ist Arbeitgeber** der französischen Sprachbegleiter; somit obliegen uns die 
+Dienstaufsicht und die Fachaufsicht über deren pädagogische Arbeit. Der Vorstand organisiert außerdem die 
+Weiterbildung der Sprachbegleiter und pflegt die Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen.
 
  
 
 Außerdem arbeitet mille pattes e.V. mit der Pablo-Neruda-Grundschule eng zusammen. Der Leitung des Hortes 
-der Pablo-Neruda-Grundschule steht der Verein bei der Auswahl und Weiterbildung ihrer SprachassistentInnen beratend zur Seite.
+der Pablo-Neruda-Grundschule steht der Verein bei der Auswahl und Weiterbildung ihrer Sprachbegleiter beratend zur Seite.
 
  
 
 Wollen auch Sie Teil von mille pattes e.V. sein, so schreiben Sie uns an mille-pattes@web.de.
 
+---
 
 ## Wie wird das Projekt finanziert?
 
 Der Verein ist Arbeitgeber der Sprachbegleiter des Kindergartens. Die Finanzierung der Sprachbegleiter erfolgt 
 durch einen monatlich zu zahlenden Elternbeitrag. Zu diesem Zweck schließen die Eltern mit dem Verein Mille Pattes e.V. 
-einen Vertrag ab, in dem die Höhe des Beitrages und die Zahlungsmodalitäten festgesetzt werden.
+einen {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} ab, in dem die Höhe des Beitrages und die Zahlungsmodalitäten festgesetzt werden.
 
  
 
@@ -62,21 +71,23 @@ Geschwisterkind wird kostenlos aufgenommen.
 
  
 
-Den Vertrag finden Sie hier.
+Den {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} finden Sie hier.
 
  
 
  
 
-Diese Beiträge verstehen sich zuzüglich des normalen Betreuungsentgelds, das einheitlich für alle Einrichtungen in 
-kommunaler und freier Trägerschaft entrichtet werden muß. Die Höhe des Betreuungsentgelds finden Sie hier.
+Diese Beiträge fallen zusätzlich zum normalen Betreuungsentgelds an, das einheitlich für alle Einrichtungen in 
+kommunaler und freier Trägerschaft entrichtet werden muß. Die Höhe des Betreuungsentgelds finden Sie 
+<a href="https://www.leipzig.de/jugend-familie-und-soziales/kinderbetreuung/elternbeitraege/#c36407" target="_blank">hier.</a>
 
+---
 
 ## Spenden werden gebraucht!
 
 
 Mille Pattes e.V. ist auf Spenden angewiesen. Warum? Einerseits will der Verein den Elternbeitrag so bemessen, 
-dass auch einkommensschwächere Familien ihre Kinder die Möglichkeiter geben können eine zweite Sprache zu erlernen. 
+dass auch einkommensschwächere Familien ihre Kinder die Möglichkeiten geben können eine zweite Sprache zu erlernen. 
 Andererseits ist es notwendig ein gewisses Bezahlungsniveau zu bieten, um gut qualifizierte Kräfte 
 für unsere Kinder zu gewinnen und zu halten.
 

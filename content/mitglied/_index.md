@@ -1,5 +1,5 @@
 +++
-title = "Mitglied"
+title = "Mitgliedschaft"
 date = "2014-04-09"
 +++
 

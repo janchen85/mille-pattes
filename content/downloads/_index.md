@@ -18,7 +18,7 @@ Ihr {{< url-link "Leistungsvertrag" "/img/downloads/Leistungsvertrag.pdf" "targe
 
 
 
-Den {{< url-link "Mitgliedsschaftantrag" "/img/downloads/Mitgliedsschaftantrag.pdf" "target">}} um den Kindern zusammen mit den Sprachbegeleitern mehr zu ermöglichen 
+Den {{< url-link "Mitgliedschaftsantrag" "/img/downloads/Mitgliedsschaftantrag.pdf" "target">}} um den Kindern zusammen mit den Sprachbeg   leitern mehr zu ermöglichen 
 
 
 

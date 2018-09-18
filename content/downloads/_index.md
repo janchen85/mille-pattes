@@ -5,7 +5,7 @@ date = "2014-04-09"
 
 Wir haben Ihnen hier die wichtigsten Dokumente zur Verfügung gestellt:
 
-Unser {{< url-link "Satzung" "/img/downloads/Satzung_MillePattes.pdf" "target">}} des Vereins Mille Pattes e.V.
+Unser {{< url-link "Satzung" "/img/downloads/Satzung_nov_2017.pdf" "target">}} des Vereins Mille Pattes e.V.
 
 
 

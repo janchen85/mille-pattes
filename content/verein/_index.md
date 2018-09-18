@@ -30,30 +30,21 @@ Unterrichtssprache ist. Auch im Hort dieser Grundschule werden die Kinder von fr
 ## Vereinsschwerpunkte
 
 
-Die Vorstandsmitglieder des Vereins ermöglichen durch **_ihre ehrenamtliche Arbeit_** die bilinguale und interkulturelle 
-Erziehung, dadurch dass sie französische muttersprachler als Sprachbegleiter recrutieren und die nötigen administrativen Aufgaben übernehmen.
+Die Vorstandsmitglieder des Vereins ermöglichen durch ihre ehrenamtliche Arbeit die bilinguale und 
+interkulturelle Erziehung in der Deutsch-Französischen Integrativen Kindertageseinrichtung 
+Tarostraße 9 im Rahmen des städtischen Kindergartens. 
 
-Der Verein sorgt für die: 
+Aufgaben des Vereins/Vorstands: 
   
-- Auswahl 
-- Einstellung
-- Finanzierung
-- Fortbildung der Sprachbegleiter sowie 
-- Präsentation des Vereins und der Kita in der Öffentlichkeit.
- 
+- Als Arbeitgeber der französischen Sprachbegleiter obliegen dem Verein die Dienstaufsicht sowie die Fachaufsicht über deren pädagogische Arbeit. 
+- Der Vorstand bemüht sich um stetig steigende Qualität des Angebots durch Weiterbildungen der Sprachbegleiter (z.B. Valisette 2017, BiSS)
+ -Rekrutieren neuer Sprachbegleiter 
+- Verwaltung der Beitrage, Lohnzahlungen, Versicherungen
+- Kommunikation mit den Eltern
+- pflegt die Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen. 
 
-**Der Verein ist Arbeitgeber** der französischen Sprachbegleiter; somit obliegen uns die 
-Dienstaufsicht und die Fachaufsicht über deren pädagogische Arbeit. Der Vorstand organisiert außerdem die 
-Weiterbildung der Sprachbegleiter und pflegt die Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen.
+Sie möchten mitmachen? Schreiben Sie uns gern über unser Kontaktfornular oder direkt an mille-pattes@web.de.
 
- 
-
-Außerdem arbeitet mille pattes e.V. mit der Pablo-Neruda-Grundschule eng zusammen. Der Leitung des Hortes 
-der Pablo-Neruda-Grundschule steht der Verein bei der Auswahl und Weiterbildung ihrer Sprachbegleiter beratend zur Seite.
-
- 
-
-Wollen auch Sie Teil von mille pattes e.V. sein, so schreiben Sie uns an mille-pattes@web.de.
 
 ---
 
@@ -83,14 +74,12 @@ kommunaler und freier Trägerschaft entrichtet werden muß. Die Höhe des Betreu
 
 ---
 
-## Spenden werden gebraucht!
+## Unterstützen Sie uns!
 
 
-Mille Pattes e.V. ist auf Spenden angewiesen. Warum? Einerseits will der Verein den Elternbeitrag so bemessen, 
-dass auch einkommensschwächere Familien ihre Kinder die Möglichkeiten geben können eine zweite Sprache zu erlernen. 
-Andererseits ist es notwendig ein gewisses Bezahlungsniveau zu bieten, um gut qualifizierte Kräfte 
-für unsere Kinder zu gewinnen und zu halten.
-
+Durch Ihre Spenden können wir den Elternbeitrag moderat halten und unseren Sprachbegleitern Weiterbildungen 
+ermöglichen, die zu einem höheren Bildungsniveau und langfristig motivierten Mitarbeitern führt. 
+Beides kommt direkt unseren und Ihren Kindern zugute.
  
 
 **Unsere Kontoverbindung**

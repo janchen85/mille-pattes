@@ -7,51 +7,59 @@
     {{ else }}
       <h1><a href="{{ "/" | relURL }}">{{ .Title }}</a></h1>
     {{ end }}
+    <div>
+        <nav class="links" id="menu-top">
+            <div class="pure-menu">
+                <ul>
+                    <li>
+                        <a href="/" >
+                           <i class="fa fa-home"> </i>Home
+                            <a href="/" class="custom-toggle" id="toggle">
+                                <s class="fa-bars"></s>
+                            </a>
+                        </a>
+                    </li>
 
-    <nav class="links" id="menu-top">
-        <ul>
-            <li>
-                <a href="/">
-                    <i class="fa fa-home">&nbsp;</i>Home
-                </a>
-            </li>
+                    <li>
+                        <a href="/verein/">
+                            <i class="fa fa-id-card-o">&nbsp;</i>Verein
+                        </a>
+                    </li>
 
-            <li>
-                <a href="/verein/">
-                    <i class="fa fa-id-card-o">&nbsp;</i>Verein
-                </a>
-            </li>
+                    <li>
+                        <a href="/konzept/">
+                            <i class="fa fa-newspaper-o">&nbsp;</i>Konzept
+                        </a>
+                    </li>
 
-            <li>
-                <a href="/konzept/">
-                    <i class="fa fa-newspaper-o">&nbsp;</i>Konzept
-                </a>
-            </li>
+                    <li>
+                        <a href="/team/">
+                            <i class="fa fa-sitemap">&nbsp;</i>Team
+                        </a>
+                    </li>
 
-            <li>
-                <a href="/team/">
-                    <i class="fa fa-sitemap">&nbsp;</i>Team
-                </a>
-            </li>
+                    <li>
+                        <a href="/mitglied/">
+                            <i class="fa fa-sitemap">&nbsp;</i>Mitglied
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/karriere/">
+                            <i class="fa fa-list">&nbsp;</i>Karriere
+                        </a>
+                    </li>
 
-            <li>
-                <a href="/mitglied/">
-                    <i class="fa fa-sitemap">&nbsp;</i>Mitglied
-                </a>
-            </li>
-            <li>
-                <a href="/karriere/">
-                    <i class="fa fa-list">&nbsp;</i>Karriere
-                </a>
-            </li>
+                    <li>
+                        <a href="/kontakt/">
+                            <i class="fa fa-envelope-o">&nbsp;</i>Kontakt
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
 
-            <li>
-                <a href="/kontakt/">
-                    <i class="fa fa-envelope-o">&nbsp;</i>Kontakt
-                </a>
-            </li>
-        </ul>
-    </nav>
+
     <nav class="main">
         <ul>
             <li class="search">
@@ -61,15 +69,16 @@
                     <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
                 </form>
             </li>
+
             <li class="menu">
-                <a class="fa-bars" href="#menu">Menu</a>
+                <a class="fa-bars custom-toggle" href="#menu" id="toggle">Menu</a>
             </li>
         </ul>
     </nav>
 </header>
 
 <!-- Menu -->
-<section id="menu">
+<section class="custom-toggle" id="menu">
 
     <!-- Search -->
         <section>

@@ -5,7 +5,7 @@
 */
 
 (function($) {
-
+/*
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
 		large:	'(max-width: 1280px)',
@@ -14,8 +14,10 @@
 		xsmall:	'(max-width: 480px)'
 	});
 
-	$(function() {
 
+
+	$(function() {
+/*
 		var	$window = $(window),
 			$body = $('body'),
 			$menu = $('#menu'),
@@ -37,7 +39,7 @@
 			target: $body,
 			visibleClass: 'is-menu-visible'
 		});
-
+		*/
 		// Menu.
 			/*$menu
 				.appendTo($body)
@@ -52,7 +54,10 @@
 					visibleClass: 'is-menu-visible'
 				});*/
 
+
+
 		// Search (header).
+	/*
 			var $search = $('#search'),
 				$search_input = $search.find('input');
 
@@ -103,5 +108,5 @@
 					});
 
 	});
-
+*/
 })(jQuery);

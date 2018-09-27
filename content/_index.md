@@ -3,7 +3,7 @@ title = "Willkommen bei MILLE PATTES E.V."
 date = "2014-04-09"
 +++
 
-{{< img-post path="/img" file="natalie2.jpeg" alt="Alt Text" type="center" >}}
+{{< img-post path="/img" file="image1_2.jpg" alt="mille pattes" type="center" >}}
 
 
 

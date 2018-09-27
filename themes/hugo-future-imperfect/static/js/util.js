@@ -5,7 +5,7 @@
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.navList = function() {
-
+/*
 		var	$this = $(this);
 			$a = $this.find('a'),
 			b = [];
@@ -40,7 +40,7 @@
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.panel = function(userConfig) {
-
+/*
 		// No elements?
 			if (this.length == 0)
 				return $this;

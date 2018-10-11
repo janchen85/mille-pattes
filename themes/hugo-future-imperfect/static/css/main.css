@@ -822,16 +822,7 @@
 				width: 100%;
 			}
 
-		.carousel-item img{
-			margin: 89px;
-		}
 
-		.carousel-control-next-icon{
-				background-image: url('https://apufpel.com.br/assets/img/seta_ult.png')
-			}
-		.carousel-control-prev-icon{
-			background-image: url('https://apufpel.com.br/assets/img/seta_prim.png')
-		}
 
 
 /* List */

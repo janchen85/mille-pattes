@@ -30,3 +30,22 @@
         padding-bottom: 18px;
     }
 }
+#carouselExampleControls{
+    margin-left: 15px;
+}
+.carousel-inner{
+    margin-left: 15px;
+}
+.carousel-item img{
+    margin: 5px;
+}
+
+.carousel-control-next-icon{
+    background-image: url('https://apufpel.com.br/assets/img/seta_ult.png')
+}
+.carousel-control-prev-icon{
+    background-image: url('https://apufpel.com.br/assets/img/seta_prim.png')
+}
+.carousel-item active{
+    margin-left: 15px;
+}

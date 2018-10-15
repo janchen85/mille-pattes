@@ -1343,14 +1343,15 @@
 				}
 
 		#content img {
-        max-width: 100%;
+        max-width: 65%;
+		margin-left: 18%;
     }
 
 
-    #content p a,
+   /* #content p a,
 		#content ul li a {
         border-bottom: dotted 2px rgba(160,160,160,.65);
-    }
+    }*//
 
         #content p a:hover {
             border-bottom-color: transparent;

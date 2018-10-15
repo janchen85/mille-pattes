@@ -3,8 +3,9 @@ title = "Willkommen bei MILLE PATTES E.V."
 date = "2014-04-09"
 +++
 
-{{< img-post path="/img" file="natalie2.jpeg" alt="Willkommen" type="center">}}
-
+<a href="https://www.mille-pattes.de" class="image featured">
+              <img src="/img/natalie2.jpeg" alt="">
+</a>
 
 
 
@@ -14,7 +15,7 @@ Wir begrüßen Sie herzlich auf den Seiten des Vereins "Deutsch-Französische Bi
  
 
 Unser Verein wurde 2002 von engagierten Mitgliedern als Elterninitiative gegründet.
-Mit dem Ziel Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung anbieten zu können starten wir damals mit einer Gruppe von 15 Kindern.
+Mit dem Ziel, Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung anbieten zu können, starteten wir damals mit einer Gruppe von 15 Kindern.
 Heute werden rund 100 Kinder von zwei bis sechs Jahren in 6 Gruppen von deutschen Erziehern und französischsprachigen Sprachbegleitern 
 in der Kita "ITE Tarostraße 9" der Stadt Leipzig betreut.
 
@@ -25,7 +26,11 @@ Das Bildungsangebot ist durchgehend bilingual und bikulturel von der Kita bis zu
 Es ist ein Zusammenschluss aus fünf eigenständigen Einrichtungen, die alle bereits seit mehreren Jahren erfolgreiche 
 Bildungsangebote in französischer Sprache anbieten.
 
-{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="center" >}}
+
+<a href="https://www.mille-pattes.de" class="image featured">
+              <img src="/img/collaboration/Logo_mit_schulen_franz.jpg" alt="">
+</a>
+<!---{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="center" >}} --->
  
 
 Entdecken Sie mehr über unsere Arbeit in der Deutsch-Französischen Integrativen Kindertageseinrichtung der Tarostr. 9!

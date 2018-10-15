@@ -24,7 +24,7 @@ französische Freiwillige empfangen, die das Team der Sprachbegleiter verstärkt
 
 
 
- - In 2017 und 2018 haben die Erzieher und Sprachbegleiter der Kita an der {{< url-link "Fortbildung Kinderkiste" "kinderkiste.dfjw.org/startseite/" "target">}} 
+- In 2017 und 2018 haben die Erzieher und Sprachbegleiter der Kita an der {{< url-link "Fortbildung Kinderkiste" "kinderkiste.dfjw.org/startseite/" "target">}} 
 teilgenommen. Dieses Programm wurde von dem DFJW gefördert.
 
 

@@ -38,10 +38,10 @@ Aufgaben des Vereins/Vorstands:
   
 - Als Arbeitgeber der französischen Sprachbegleiter obliegen dem Verein die Dienstaufsicht sowie die Fachaufsicht über deren pädagogische Arbeit. 
 - Der Vorstand bemüht sich um stetig steigende Qualität des Angebots durch Weiterbildungen der Sprachbegleiter (z.B. Valisette 2017, BiSS)
- -Rekrutieren neuer Sprachbegleiter 
-- Verwaltung der Beitrage, Lohnzahlungen, Versicherungen
+- Rekrutieren neuer Sprachbegleiter 
+- Verwaltung der Beiträge, Lohnzahlungen, Versicherungen
 - Kommunikation mit den Eltern
-- pflegt die Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen. 
+- Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen. 
 
 Sie möchten mitmachen? Schreiben Sie uns gern über unser Kontaktfornular oder direkt an mille-pattes@web.de.
 
@@ -52,7 +52,8 @@ Sie möchten mitmachen? Schreiben Sie uns gern über unser Kontaktfornular oder 
 
 Der Verein ist Arbeitgeber der Sprachbegleiter des Kindergartens. Die Finanzierung der Sprachbegleiter erfolgt 
 durch einen monatlich zu zahlenden Elternbeitrag. Zu diesem Zweck schließen die Eltern mit dem Verein Mille Pattes e.V. 
-einen {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} ab, in dem die Höhe des Beitrages und die Zahlungsmodalitäten festgesetzt werden.
+einen {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} ab, in dem die Höhe des Beitrages und die 
+Zahlungsmodalitäten festgesetzt werden.
 
  
 
@@ -68,8 +69,8 @@ Den {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} fin
 
  
 
-Diese Beiträge fallen zusätzlich zum normalen Betreuungsentgelds an, das einheitlich für alle Einrichtungen in 
-kommunaler und freier Trägerschaft entrichtet werden muß. Die Höhe des Betreuungsentgelds finden Sie 
+Diese Beiträge fallen zusätzlich zum normalen Betreuungsentgeld an, das einheitlich für alle Einrichtungen in 
+kommunaler und freier Trägerschaft entrichtet werden muss. Die Höhe des Betreuungsentgelds finden Sie 
 <a href="https://www.leipzig.de/jugend-familie-und-soziales/kinderbetreuung/elternbeitraege/#c36407" target="_blank">hier.</a>
 
 ---

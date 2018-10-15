@@ -73,8 +73,8 @@ Dafür suchen wir **_dringend Unterstützung_**. Ihre kleinen Einsätze sind ein
 
  
 
-Sie schreiben gerne? Schreiben Sie die Berichte Ihres Kindes über den Kitaalltag (Feste, Französisches Kochen, Theaterbesuch etc.) 
-auf und schicken Sie uns Ihren Text für den nächsten Newsletter!
+Sie schreiben gerne? Schreiben Sie Berichte über den Kitaalltag Ihres Kindes (Feste, Französisches Kochen, Theaterbesuch etc.) 
+auf und schicken Sie uns ihren Text für den nächsten Newsletter!
 
  
 

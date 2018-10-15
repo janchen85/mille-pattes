@@ -10,7 +10,7 @@ date = "2014-04-09"
  
 
 **_Die Mitarbeiter des Vereins arbeiten ehrenamtlich._** Fast 100 Prozent der Elternbeiträge fließen in die Gehälter 
-der Sprachassistenten.
+der Sprachbegleiter.
 
 Für die Finanzierung weiterer Maßnahmen des Vereins sind wir auf Beiträge von Vereinsmitgliedern angewiesen.
 
@@ -24,19 +24,19 @@ Für die Finanzierung weiterer Maßnahmen des Vereins sind wir auf Beiträge von
 
 Von den Mitgliedsbeiträgen **profitieren die Kinder**:
 
-   - unter anderem Weiterbildungsmaßnahmen für die SprachassistentInnen bezahlt
-   - dienen auch dazu unsere französische Bibliothek auszubauen. Neben Kinderbüchern werden 
+   - er werden Weiterbildungsmaßnahmen für die Sprachbegleiter bezahlt
+   - unsere französische Bibliothek wird ausgebauen. Neben Kinderbüchern werden 
  regelmäßig Abonnements abgeschlossen, bei denen wir monatlich Kinderzeitschriften aus Frankreich erhalten. 
- Diese werden dann aktiv in die pädagogische Arbeit der Sprachassistenten eingebaut.
+ Diese werden dann aktiv in die pädagogische Arbeit der Sprachbegleiter eingebaut
 
 
 Mitglieder profitieren:
 
 - Bei unseren jährlichen Mitgliederversammlungen werden wichtige konzeptuelle Punkte unserer Arbeit besprochen und 
 verabschiedet.
-- Erhalten aller zwei Monate unseren gedruckten Newsletter, der Einblicke in den Kita-Alltag Ihrer Kinder 
+- Sie erhalten aller zwei Monate unseren gedruckten Newsletter, der Einblicke in den Kita-Alltag Ihrer Kinder 
  erlaubt und über die laufenden Aktivitäten und Projekte informiert!
-- Tragen zum Erhalt der bilingualen Angebote bei!
+- Sie tragen zum Erhalt der bilingualen Angebote bei!
  
 
 Mitglied wird man durch einen gesonderten Antrag und das Entrichten eines Mitgliedsbeitrags. Der monatliche 

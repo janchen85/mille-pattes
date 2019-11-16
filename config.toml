@@ -1,5 +1,6 @@
 baseurl = "/"
 languageCode = "de-DE"
+DefaultContentLanguage = "de"
 title = "Mille pattes e.V."
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
@@ -32,3 +33,21 @@ canonifyURLs = true
 [social]
   # Email
   email            = "contact@mille-pattes.de"
+
+
+[languages]
+  [languages.de]
+  languageName = "Deutsch"
+    weight = 1
+    [[languages.de.menu.main]]
+    url    = "/"
+    name   = "Startseite"
+    weight = 0
+
+  [languages.fr]
+  languageName = "Francais"
+        weight = 2
+[[languages.fr.menu.main]]
+url    = "/"
+name   = "Page d'acceiul"
+weight = 0

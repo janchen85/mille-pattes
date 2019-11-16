@@ -24,7 +24,7 @@ Für die Finanzierung weiterer Maßnahmen des Vereins sind wir auf Beiträge von
 
 Von den Mitgliedsbeiträgen **profitieren die Kinder**:
 
-   - er werden Weiterbildungsmaßnahmen für die Sprachbegleiter bezahlt
+   - es werden Weiterbildungsmaßnahmen für die Sprachbegleiter bezahlt
    - unsere französische Bibliothek wird ausgebauen. Neben Kinderbüchern werden 
  regelmäßig Abonnements abgeschlossen, bei denen wir monatlich Kinderzeitschriften aus Frankreich erhalten. 
  Diese werden dann aktiv in die pädagogische Arbeit der Sprachbegleiter eingebaut
@@ -50,4 +50,5 @@ Vereinsbeitrag liegt bei 10 € (bei Kita-Freiplatz 2,50 €).
 
  
 
-Aus der Vereinsmitgliedschaft leitet sich kein Anspruch auf einen Kindergartenplatz ab.
+Aus der Vereinsmitgliedschaft leitet sich kein Anspruch auf einen Kindergartenplatz ab aber Sie 
+haben die Möglichkeit im Leipziger Kita einen Antrag auf Wechsel zu stellen.

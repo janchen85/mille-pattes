@@ -13,7 +13,7 @@ date = "2014-04-09"
 Du sprichst **_fließend Französisch_**, 
 **_arbeitest gerne mit Kindern_**, 
 hast bereits **_erste Erfahrungen_** im Bereich Bildung und
-kannst dir eine Arbeit in einer Kindertageseinrichtung **_im Team mit deutschsprachigen Erzieherinnen_** vorstellen? 
+kannst dir eine Arbeit in einer Kindertageseinrichtung **_im Team mit deutschsprachigen Erziehern_** vorstellen? 
 
 
 Du bist **_motiviert_**, **_Kleinkindern_** Ihre Muttersprache und die **_französische Kultur_** mit 
@@ -31,7 +31,7 @@ Wir bieten folgende Möglichkeiten zur Mitarbeit:
 
  
 
-Gern kannst du uns kontaktieren oder eine Initiativbewerbung (im PDF-Format) an mille-pattes@web.de schicken.
+Gern kannst du uns kontaktieren oder eine Initiativbewerbung (im PDF-Format) an mille-pattes[at]web.de schicken.
 
 
 ***
@@ -39,17 +39,17 @@ Gern kannst du uns kontaktieren oder eine Initiativbewerbung (im PDF-Format) an 
 
 ## Aktuelle Stellenausschreibungen
 
-Unser Team ist zur Zeit komplett.
+<!---Unser Team ist zur Zeit komplett.--->
 
-<!---
+
 Wir suchen Unterstützung für folgende Stellen:
 
-{{< url-link "Sprachbegleiter (m/w)" "/img/downloads/Stellenanzeige_Sprachbegleiter.pdf" "target">}}
+{{< url-link "Festanstellung als Sprachbegleiter (m/w)" "/img/downloads/Stellenanzeige_juin2019.pdf" "target">}}
 
 und
 
-{{< url-link "FSJ (Freiwilliges soziales Jahr) (m/w)" "/img/downloads/Stellenanzeige_NEU_FSJ.pdf" "target">}}
---->
+{{< url-link "FSJ (Freiwilliges soziales Jahr) (m/w)" "/img/downloads/Stellenanzeige_FSJ_2019.pdf" "target">}}
+
 
 ***
 
@@ -86,4 +86,4 @@ Wir freuen uns auf Ihre Ideen und Ihre Mitarbeit.
 
  
 
-Kontaktieren Sie uns unter mille-pattes [at] web.de !
+Kontaktieren Sie uns unter mille-pattes[at]web.de oder {{< url-link "über unser Kontakformular" "/kontakt" "target">}}!

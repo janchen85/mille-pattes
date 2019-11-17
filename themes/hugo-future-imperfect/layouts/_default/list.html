@@ -3,6 +3,11 @@
 {{ partial "header" . }}
     {{ partial "navbar" . }}
     <!-- Main -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGZ8W36"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
     <div id="main">
         {{ range .Data.Pages }}
             {{ .Render "content-list" }}

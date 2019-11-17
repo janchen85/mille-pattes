@@ -132,7 +132,7 @@
                 </header>
                 {{ $.Scratch.Set "recentPosts" .Site.Pages }}
 
-                {{ range first 5 (where ($.Scratch.Get "recentPosts") "Type" "post") }}
+                {{ range first 4 (where ($.Scratch.Get "recentPosts") "Type" "post") }}
                         <article class="mini-post">
                             <header>
                                 <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>

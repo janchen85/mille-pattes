@@ -1,36 +1,27 @@
 +++
-title = "Willkommen bei MILLE PATTES E.V."
+title = "Bienvenue chez l’association mille pattes"
 date = "2014-04-09"
 +++
 
-<a href="https://www.mille-pattes.de" class="image featured">
-              <img src="/img/mille-pattes.jpeg" alt="mille pattes">
-</a>
+{{< img-post path="/img" file="mille-pattes.jpeg" alt="Mille pattes e.V." type="featured" >}}
 
 
+Bienvenue sur le site de l'association "Enseignement franco-allemand au jardin d’enfants et à l’école - mille pattes e.V.".
 
 
-Wir begrüßen Sie herzlich auf den Seiten des Vereins "Deutsch-Französische Bildung in Kita und Schule – mille pattes e.V."
-
- 
-
-Unser Verein wurde 2002 von engagierten Mitgliedern als Elterninitiative gegründet.
-Mit dem Ziel, Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung anbieten zu können, starteten wir damals mit einer Gruppe von 15 Kindern.
-Heute werden rund 100 Kinder von zwei bis sechs Jahren in 6 Gruppen von deutschen Erziehern und französischsprachigen Sprachbegleitern 
-in der Kita "ITE Tarostraße 9" der Stadt Leipzig betreut.
+Notre association a été fondée en 2000 à l'initiative de parents engagés. Dans le but d'offrir une éducation multilingue et 
+interculturelle aux jeunes enfants de Leipzig, nous avons débuté avec une classe de 15 enfants. Aujourd'hui, une centaine 
+d'enfants de deux à six ans sont pris en charge par les éducateurs allemands et les assistants de langue française dans 
+6 classes au sein du jardin d'enfants "ITE Tarostraße 9" de la ville de Leipzig.
 
 {{< img-post path="/img" file="pieds_mille_pattes.png" alt="Alt Text" type="center" >}}
 
-Unsere Kita bildet das erste Glied des Deutsch-Französischen Bildungszentrums Leipzig. 
-Das Bildungsangebot ist durchgehend bilingual und bikulturel von der Kita bis zum Haupt- oder Realschulabschluss bzw. bis zum Abitur aufgebaut.
-Es ist ein Zusammenschluss aus fünf eigenständigen Einrichtungen, die alle bereits seit mehreren Jahren erfolgreiche 
-Bildungsangebote in französischer Sprache anbieten.
+Notre jardin d’enfants constitue le premier membre du « Franz », le centre d’éducation franco-allemand de Leipzig. 
+Nous offrons un enseignement bilingue et biculturelle tout au long de la scolarité, de la crèche au baccalauréat 
+(Hauptschule, Realschulabschluss ou Abitur). Le Franz est une association qui se constitue de cinq institutions 
+indépendantes, qui offrent toutes, depuis plusieurs années, des possibilités d’enseignement en français.
 
 
-<a href="https://www.mille-pattes.de" class="image featured">
-              <img src="/img/collaboration/Logo_mit_schulen_franz.jpg" alt="">
-</a>
-<!---{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="center" >}} --->
+{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="featured" >}}
  
-
-Entdecken Sie mehr über unsere Arbeit in der Deutsch-Französischen Integrativen Kindertageseinrichtung der Tarostr. 9!
+Découvrez notre travail au sein du jardin d’enfants franco-allemand de la Tarostr. 9 !

@@ -795,13 +795,14 @@
 			}
 
 		.image.featured {
-			display: block;
-			margin: 0 0 3em 0;
+
 			width: 100%;
 		}
 
 			.image.featured img {
 				width: 55%;
+				display: block;
+				margin: auto;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -1343,8 +1344,8 @@
 				}
 
 		#content img {
-        max-width: 65%;
-		margin-left: 18%;
+        max-width: 100%;
+
     }
 
 
@@ -2555,6 +2556,12 @@
 			}
 
 		}
+		#linklogo
+		{
+			border-bottom: none;
+			position: static;
+			margin-left: -35%;
+		}
 
 /* Intro */
 
@@ -2990,13 +2997,50 @@
 }
 	.carousel-inner{
 		position: relative;
-		width: 112%;
+		width: 80%;
 		overflow: hidden;
-		margin-left: -10%;
+		margin-left: 7%;
 	}
-	#carousel-control-prev-icon{
+	.carousel-control-prev-icon{
 		left:55%;
 	}
-	.carousel-control-next-icon{
-		right: 10%%;
+	.carousel-control-next{
+		right: 25px;
 	}
+		@media screen and (max-width: 980px) {
+
+			.carousel-inner{
+				position: relative;
+				width: 80%;
+				overflow: hidden;
+			}
+
+			.carousel-control-prev{
+				left:-8%;
+			}
+
+			.carousel-control-next{
+				right: 20px;
+			}
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.carousel-inner {
+				position: relative;
+				width: 95%;
+				overflow: hidden;
+			}
+
+			#carouselExampleControls{
+				width: 100%;
+			}
+
+			.carousel-control-prev{
+				left: -32px;
+			}
+
+			.carousel-control-next{
+				right: -20px;
+			}
+		}

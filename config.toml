@@ -48,6 +48,6 @@ canonifyURLs = true
   languageName = "Francais"
         weight = 2
 [[languages.fr.menu.main]]
-url    = "/"
+url    = "/fr"
 name   = "Page d'acceiul"
 weight = 0

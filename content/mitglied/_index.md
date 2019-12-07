@@ -51,4 +51,4 @@ Vereinsbeitrag liegt bei 10 € (bei Kita-Freiplatz 2,50 €).
  
 
 Aus der Vereinsmitgliedschaft leitet sich kein Anspruch auf einen Kindergartenplatz ab aber Sie 
-haben die Möglichkeit im Leipziger Kita einen Antrag auf Wechsel zu stellen.
+haben die Möglichkeit im Leipziger Kita Portal einen Antrag auf Wechsel zu stellen.

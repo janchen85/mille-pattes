@@ -76,11 +76,7 @@ Dafür suchen wir **_dringend Unterstützung_**. Ihre kleinen Einsätze sind ein
 Sie schreiben gerne? Schreiben Sie Berichte über den Kitaalltag Ihres Kindes (Feste, Französisches Kochen, Theaterbesuch etc.) 
 auf und schicken Sie uns ihren Text für den nächsten Newsletter!
 
- 
 
-Sprechen Sie fließend Französisch? Dann verhelfen Sie unserer Homepage zu Bilingualität.
-
- 
 
 Wir freuen uns auf Ihre Ideen und Ihre Mitarbeit.
 

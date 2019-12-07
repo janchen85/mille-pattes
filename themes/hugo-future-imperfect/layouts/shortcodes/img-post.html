@@ -60,6 +60,10 @@
         <span class="image right">
             <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
         </span>
+    {{ else if eq $type "featured" }}
+        <p><span class="image featured">
+            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+        </span></p>
     {{ else }}
         <p><span class="image center">
             <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">

@@ -1,95 +1,100 @@
 +++
-title = "Mille Pattes e.V."
+title = "L'association Mille Pattes e.V."
 date = "2014-04-09"
 +++
 
 
+## FONDATION
 
 
-## Gründung
 
-Der Verein "Deutsch-Französische Kindertagesstätte / Ecole maternelle franco-allemande Leipzig e.V." wurde im Jahr 2000 
-von engagierten Eltern mit dem Ziel gegründet, Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung 
-anbieten zu können. Der Verein wurde zwei Jahre später in "Deutsch-französische Bildung in Kita und Schule – mille pattes e.V." 
-umbenannt (mille pattes bedeutet "Tausendfüßler" auf Französisch).
-
- 
-
-Richtig angefangen hat alles im September 2002 mit einer Gruppe, die gerade einmal 15 Kinder besuchten. 
-Es war ein Experiment - und sicherlich auch ein Wagnis mit ungewissem Ausgang. Doch das Konzept bewährte 
-sich und stieß bei vielen Eltern auf großes Interesse. Mittlerweile besuchen 98 Kinder die sechs deutsch-französischen Gruppen.
-
- 
-
-Einen weiteren großen Schritt machte das Projekt im September 2006: An der benachbarten Pablo-Neruda-Grundschule 
-ging in jenem Schuljahr die erste Französischklasse an den Start, in der Französisch in einigen Fächern 
-Unterrichtssprache ist. Auch im Hort dieser Grundschule werden die Kinder von französischem Personal betreut.
-
----
-
-## Vereinsschwerpunkte
+L'association "Ecole maternelle franco-allemande Leipzig e.V." a été fondée en 2000 par des parents engagés dans le but d'offrir 
+aux jeunes enfants à Leipzig une éducation multilingue et interculturelle. Deux ans plus tard, l'association fut rebaptisée 
+"Enseignement franco-allemand au jardin d’enfants et à l’école - mille pattes e.V.".
 
 
-Die Vorstandsmitglieder des Vereins ermöglichen durch ihre ehrenamtliche Arbeit die bilinguale und 
-interkulturelle Erziehung in der Deutsch-Französischen Integrativen Kindertageseinrichtung 
-Tarostraße 9 im Rahmen des städtischen Kindergartens. 
 
-Aufgaben des Vereins/Vorstands: 
-  
-- Als Arbeitgeber der französischen Sprachbegleiter obliegen dem Verein die Dienstaufsicht sowie die Fachaufsicht über deren pädagogische Arbeit. 
-- Der Vorstand bemüht sich um stetig steigende Qualität des Angebots durch Weiterbildungen der Sprachbegleiter (z.B. Valisette 2017, BiSS)
-- Rekrutieren neuer Sprachbegleiter 
-- Verwaltung der Beiträge, Lohnzahlungen, Versicherungen
-- Kommunikation mit den Eltern
-- Zusammenarbeit und Kooperation mit anderen Einrichtungen und Institutionen. 
+Tout a ainsi vraiment commencé en septembre 2002 avec une petite classe de 15 enfants. Il s'agissait d'une expérience - et 
+certainement d'une aventure dont l'issue était incertaine. Toutefois, le concept a fait ses preuves et a suscité un grand 
+intérêt de la part de nombreux parents. Depuis, une centaine d'enfants sont accueillis dans les six classes franco-allemandes.
 
-Sie möchten mitmachen? Schreiben Sie uns gern über unser Kontaktformular oder direkt an mille-pattes[at]web.de.
 
+
+Le projet a franchi une autre étape importante en septembre 2006 : l'école primaire voisine Pablo-Neruda a ouvert la première 
+classe française, où certaines matières sont enseignées en langue française. Les enfants y sont également pris en charge 
+par le personnel français au sein de la garderie.
 
 ---
 
-## Wie wird das Projekt finanziert?
+## Priorité de l'association
 
-Der Verein ist Arbeitgeber der Sprachbegleiter des Kindergartens. Die Finanzierung der Sprachbegleiter erfolgt 
-durch einen monatlich zu zahlenden Elternbeitrag. Zu diesem Zweck schließen die Eltern mit dem Verein Mille Pattes e.V. 
-einen {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} ab, in dem die Höhe des Beitrages und die 
-Zahlungsmodalitäten festgesetzt werden.
 
- 
 
-Der Beitrag liegt zur Zeit beim ersten Kind bei 98 € im Monat (bei KiTa-Freiplatz 50 €). Für ein 
-zweites Geschwisterkind in einer deutsch-französischen Gruppe sind 78 € zu entrichten – ein drittes 
-Geschwisterkind wird kostenlos aufgenommen.
+Grâce à leur travail bénévole, les membres du bureau de l'association permettent d'assurer un enseignement bilingue et 
+interculturel au sein du jardin d'enfants municipal dans la Tarostraße 9.
 
- 
 
-Den {{< url-link "Vertrag" "/img/downloads/Leistungsvertrag.pdf" "target">}} finden Sie hier.
 
- 
 
- 
+Tâches de l'association/du bureau:
 
-Diese Beiträge fallen zusätzlich zum normalen Betreuungsentgeld an, das einheitlich für alle Einrichtungen in 
-kommunaler und freier Trägerschaft entrichtet werden muss. Die Höhe des Betreuungsentgelds finden Sie 
-<a href="https://www.leipzig.de/jugend-familie-und-soziales/kinderbetreuung/elternbeitraege/#c36407" target="_blank">hier.</a>
+
+
+- Supervision des assistants de langue française,
+- Formation continue des assistants de langue (par ex. Valisette 2017, BiSS, Kind zentriertes Arbeiten / Offenes Arbeiten, 2019),
+- Recrutement de nouveaux assistants linguistiques,
+- Administration des cotisations, paiement des salaires, assurances,
+- Communication avec les parents,
+- Coopération et coopération avec d'autres institutions et organes.
+
+
+Souhaitez-vous participer ? Ecrivez-nous via notre formulaire de contact ou directement à mille-pattes@web.de.
 
 ---
 
-## Unterstützen Sie uns!
+## COMMENT LE PROJET EST-IL FINANCÉ ?
 
 
-Durch Ihre Spenden können wir den Elternbeitrag moderat halten und unseren Sprachbegleitern Weiterbildungen 
-ermöglichen, die zu einem höheren Bildungsniveau und langfristig motivierten Mitarbeitern führt. 
-Beides kommt direkt unseren und Ihren Kindern zugute.
- 
 
-**Unsere Kontoverbindung**
+L'association est l'employeur des assistants de langue du jardin d'enfants. Les salaires des assistants de langue sont 
+financés des parents au moyen d’une mensualité. A cet effet, les parents concluent un contrat avec l'association Mille Pattes e.V.,
+ dans lequel le montant de la contribution et les modalités de paiement sont fixés.
 
 
-Kontoinhaber: Mille Pattes e.V.
 
-IBAN: DE11 8609 5604 0307 7543 12
+Cette mensualité s’élève à 98 € par mois pour le premier enfant (50 € en cas d'exonération de frais pour le jardin d'enfant). 
+Pour un deuxième enfant au sein d’une classe franco-allemande, la mensualité s'élève à 78 € - un troisième enfant est admis sans frais de scolarité.
 
-BIC: GENODEF1LVB
+
+
+Vous trouverez le {{< url-link "contrat ici" "/img/downloads/Leistungsvertrag.pdf" "target">}}.
+
+
+
+Ces mensualités s'ajoutent aux frais de garde d'enfants, qui doivent être payés uniformément pour toutes les 
+institutions municipales et indépendantes. Vous trouverez ici les montants actuels des frais de garde.
+
+---
+
+## SOUTENEZ-NOUS !
+
+
+
+Grâce à vos dons, nous pouvons garantir une mensualité parentale modérée et permettre à nos assistants de langues de 
+bénéficier d'une formation continue, leur permettant d'accéder à un niveau enseignement plus élevé, ce qui les motive 
+sur le long terme. Ceci bénéficie directement à nos enfants et à vos enfants.
+
+
+
+**Nos coordonnées bancaires:**
+
+
+
+Titulaire du compte : Mille Pattes e.V.
+
+IBAN : DE11 8609 5604 5604 0307 7543 12
+
+BIC : GENODEF1LVB
 
 Volksbank Leipzig
+

@@ -3,16 +3,10 @@ title = "Willkommen bei MILLE PATTES E.V."
 date = "2014-04-09"
 +++
 
-<a href="https://www.mille-pattes.de" class="image featured">
-              <img src="/img/mille-pattes.jpeg" alt="mille pattes">
-</a>
-
-
-
+{{< img-post path="/img" file="mille-pattes.jpeg" alt="Mille pattes e.V." type="featured" >}}
 
 Wir begrüßen Sie herzlich auf den Seiten des Vereins "Deutsch-Französische Bildung in Kita und Schule – mille pattes e.V."
 
- 
 
 Unser Verein wurde 2002 von engagierten Mitgliedern als Elterninitiative gegründet.
 Mit dem Ziel, Kleinkindern in Leipzig eine mehrsprachige und interkulturelle Bildung anbieten zu können, starteten wir damals mit einer Gruppe von 15 Kindern.
@@ -27,10 +21,8 @@ Es ist ein Zusammenschluss aus fünf eigenständigen Einrichtungen, die alle ber
 Bildungsangebote in französischer Sprache anbieten.
 
 
-<a href="https://www.mille-pattes.de" class="image featured">
-              <img src="/img/collaboration/Logo_mit_schulen_franz.jpg" alt="">
-</a>
-<!---{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="center" >}} --->
+
+{{< img-post path="/img/collaboration" file="Logo_mit_schulen_franz.jpg" alt="Alt Text" type="featured" >}}
  
 
 Entdecken Sie mehr über unsere Arbeit in der Deutsch-Französischen Integrativen Kindertageseinrichtung der Tarostr. 9!

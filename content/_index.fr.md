@@ -1,6 +1,7 @@
 +++
 title = "Bienvenue chez l’association mille pattes"
 date = "2014-04-09"
+url = "/fr"
 +++
 
 {{< img-post path="/img" file="mille-pattes.jpeg" alt="Mille pattes e.V." type="featured" >}}

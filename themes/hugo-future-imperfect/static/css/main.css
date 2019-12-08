@@ -2445,6 +2445,26 @@
 			}
 		}
 
+		.LangNav{
+			margin-right: 2%;
+		}
+		@media screen and (max-width: 800px){
+			.LangNav{
+				margin-right: -40%;
+			}
+		}
+		@media screen and (max-width: 600px){
+			.LangNav{
+				margin-right: 0%;
+			}
+		}
+		@media screen and (max-width: 400px){
+			.LangNav{
+				margin-right: 0%;
+			}
+		}
+
+
 /* Wrapper */
 
 	#wrapper {

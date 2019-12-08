@@ -34,20 +34,83 @@ canonifyURLs = true
   # Email
   email            = "contact@mille-pattes.de"
 
-
 [languages]
   [languages.de]
-  languageName = "Deutsch"
+    languageName = "Deutsch"
     weight = 1
-    [[languages.de.menu.main]]
-    url    = "/"
-    name   = "Startseite"
-    weight = 0
+  [[languages.de.menu.main]]
+        url = "/home"
+        name = "Home"
+        weight = 1
+        pre= "fa fa-home"
+  [[languages.de.menu.main]]
+      url = "/verein"
+      name = "Verein"
+      weight = 2
+      pre= "fa fa-id-card-o"
+  [[languages.de.menu.main]]
+      url = "/konzept"
+      name = "Konzept"
+      weight = 3
+      pre= "fa fa-newspaper-o"
+  [[languages.de.menu.main]]
+      url = "/team"
+      name = "Team"
+      weight = 4
+      pre= "fa fa-sitemap"
+  [[languages.de.menu.main]]
+      url = "/mitglied"
+      name = "Mitglied"
+      weight = 5
+      pre= "fa fa-sitemap"
+  [[languages.de.menu.main]]
+      url = "/karriere"
+      name = "Karriere"
+      weight = 6
+      pre = "fa fa-list"
+  [[languages.de.menu.main]]
+      url = "/kontakt"
+      name = "Kontakt"
+      weight = 7
+      pre= "fa fa-envelope-o"
+
 
   [languages.fr]
-  languageName = "Francais"
-        weight = 2
-[[languages.fr.menu.main]]
-url    = "/fr"
-name   = "Page d'acceiul"
-weight = 0
+    languageName = "Francais"
+    weight = 2
+  [[languages.fr.menu.main]]
+      url = "/fr"
+      name = "Acceuil"
+      weight = 1
+      pre= "fa fa-home"
+  [[languages.fr.menu.main]]
+      url = "/fr/le-concept"
+      name = "Le concept"
+      weight = 2
+      pre= "fa fa-newspaper-o"
+  [[languages.fr.menu.main]]
+      url = "/fr/association"
+      name = "Association"
+      weight = 3
+      pre= "fa fa-id-card-o"
+  [[languages.fr.menu.main]]
+      url = "/fr/equipe"
+      name = "Equipe"
+      weight = 4
+      pre= "fa fa-sitemap"
+  [[languages.fr.menu.main]]
+      url = "/fr/adhesion"
+      name = "Adhésion"
+      weight = 5
+      pre= "fa fa-sitemap"
+  [[languages.fr.menu.main]]
+      url = "/fr/carriere"
+      name = "Carriere"
+      weight = 6
+      pre = "fa fa-list"
+  [[languages.fr.menu.main]]
+      url = "/fr/contact"
+      name = "Contact"
+      weight = 7
+      pre = "fa fa-envelope-o"
+

@@ -1,6 +1,7 @@
 +++
 title = "NOTRE APPROCHE PÉDAGOGIQUE"
 date = "2014-04-09"
+url = "/fr/le-concept"
 +++
 
 Dans les classes franco-allemandes, les enfants sont pris en charge à la fois par un éducateur allemand et - de 9h à 15h - 

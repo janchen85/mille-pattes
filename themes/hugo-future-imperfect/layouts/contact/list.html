@@ -26,7 +26,7 @@
                 {{ else }}
                   <form id="contact" action="//{{ .Params.emailservice }}" method="post" center width="300px">
                 {{ end }}
-                  <h4>Wir bemühen uns Ihnen schnellst wie möglich zu antworten.</h4>
+                  <h4>{{ i18n "contact_phrase" }} </h4>
                   <fieldset>
                    <input placeholder="{{ .Params.contactname }}" type="text" name="name" tabindex="1" required autofocus>
                   </fieldset>

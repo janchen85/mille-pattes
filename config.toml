@@ -39,7 +39,7 @@ canonifyURLs = true
     languageName = "Deutsch"
     weight = 1
   [[languages.de.menu.main]]
-        url = "/home"
+        url = "/"
         name = "Home"
         weight = 1
         pre= "fa fa-home"
@@ -69,9 +69,14 @@ canonifyURLs = true
       weight = 6
       pre = "fa fa-list"
   [[languages.de.menu.main]]
+      url = "/downloads"
+      name = "Download"
+      weight = 7
+      pre = "fa fa-cloud-download"
+  [[languages.de.menu.main]]
       url = "/kontakt"
       name = "Kontakt"
-      weight = 7
+      weight = 8
       pre= "fa fa-envelope-o"
 
 
@@ -80,12 +85,12 @@ canonifyURLs = true
     weight = 2
   [[languages.fr.menu.main]]
       url = "/fr"
-      name = "Acceuil"
+      name = "Accueil"
       weight = 1
       pre= "fa fa-home"
   [[languages.fr.menu.main]]
-      url = "/fr/le-concept"
-      name = "Le concept"
+      url = "/fr/concept"
+      name = "Concept"
       weight = 2
       pre= "fa fa-newspaper-o"
   [[languages.fr.menu.main]]
@@ -109,8 +114,13 @@ canonifyURLs = true
       weight = 6
       pre = "fa fa-list"
   [[languages.fr.menu.main]]
+      url = "/fr/downloads"
+      name = "Download"
+      weight = 7
+      pre = "fa fa-cloud-download"
+  [[languages.fr.menu.main]]
       url = "/fr/contact"
       name = "Contact"
-      weight = 7
+      weight = 8
       pre = "fa fa-envelope-o"
 

@@ -82,4 +82,4 @@ Wir freuen uns auf Ihre Ideen und Ihre Mitarbeit.
 
  
 
-Kontaktieren Sie uns unter mille-pattes[at]web.de oder {{< url-link "über unser Kontakformular" "/kontakt" "target">}}!
+Kontaktieren Sie uns unter contact[at]mille-pattes.de oder {{< url-link "über unser Kontakformular" "/kontakt" "target">}}!

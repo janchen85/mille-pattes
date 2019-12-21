@@ -68,7 +68,7 @@ Nous nous réjouissons de vos idées et de votre coopération.
 
 
 
-Contactez-nous sur mille-patte [at]web.de ou via notre formulaire de contact !
+Contactez-nous sur contact [at]mille-pattes.de ou via notre {{< url-link "formulaire de contact" "/kontakt" "target">}} !
 
 
 
